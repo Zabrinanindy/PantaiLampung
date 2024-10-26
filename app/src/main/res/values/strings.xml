@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">Pantai Lampung</string>
+    <string name="nama_pantai">Nama Pantai</string>
+    <string name="deskripsi_pantai">Deskripsi</string>
+    <string name="infoteks">Detail Info</string>
+    <string name="fasilitasteks">Fasilitas</string>
+    <string name="fdetail">
+        Fasilitas di Pantai ini cukup lengkap sehingga kamu tidak perlu khawatir.Berbagai macam fasilitas untuk memenuhi setiap kebutuhan pengunjung di sini \n
+        \n
+        - Musholla untuk shalat \n
+        - Aula untuk melakukan pertemuan \n
+        - Gazebo untuk bersantai sambil menikmati keindahan pantai \n
+        - Toilet untuk buang air kecil dan buang air besar \n
+        - Spot foto yang keren dan estetik.
+    </string>
+    
+    <string name="lokasiteks">Lokasi :</string>
+    <string name="ldetail">Kalianda, Lampung Selatan</string>
+    <string name="jamteks">Jam Buka :</string>
+    <string name="jambuka">09.00-22.00</string>
+    <string name="hargateks">Tiket Masuk</string>
+    <string name="htmdetail">Rp 30.000/dewasa \n
+        Rp 25.000/anak-anak
+    </string>
+    <string name="menu_about">About Me</string>
+    <string name="nama_user">Zabrina Talitha A</string>
+    <string name="email_user">zabrina2004anindya@gmail.com</string>
+    <string name="kampus_user">Mahasiswa Teknik Informatika</string>
+
+    <string-array name="data_namapantai">
+        <item>Pantai Marina</item>
+        <item>Pantai Sebalang</item>
+        <item>Pantai Pasir Putih</item>
+        <item>Pantai Setigi Heni</item>
+        <item>Pantai Kedu Warna</item>
+        <item>Pantai Laguna</item>
+        <item>Pulau Pahawang</item>
+        <item>Pantai Gigi Hiu</item>
+        <item>Pantai Teluk Kiluan</item>
+        <item>Pantai Tanjung Setia</item>
+        <item>Pantai Mutun</item>
+        <item>Pantai Sari Ringgung</item>
+        <item>Pantai Klara</item>
+        <item>Pantai Labuhan Jukung</item>
+        <item>Pantai Batu Lapis</item>
+    </string-array>
+
+    <string name="marina">
+Pantai ini memiliki hamparan karang di sepanjang pantai. Deburan ombak yang menerjang bebatuan dan hamparan pasir putih di pantai menjadi daya tarik tersendiri di Pantai Marina Lampung. \n
+\n
+Memiliki keindahan alam yang memukau, Pantai Marina Lampung juga punya berbagai spot foto yang instagramable dan layak untuk kamu abadikan. \n
+\n
+Berfoto dengan latar belakang deburan ombak, hamparan karang, bahkan ada spot foto yang bertema Santorini
+    </string>
+    <string name="sebalang">
+Pantai Sebalang menawarkan pasir putih, kafe, dan pesona matahari terbenam. Berada di Tarahan, Lampung Selatan, tidak jauh dari kota Bandarlampung. Sehingga selalu penuh baik di hari libur maupun di hari biasa. \n
+\n
+Pantai Sebalang terkenal sebagai pantai senja, karena banyak pengunjung datang pada sore hari untuk menikmati matahari tenggelam. Pengunjung dapat duduk-duduk di pinggir pantai atau kafe yang tersedia sambil menikmati pantai \n
+\n
+Jika pagi hari pantai cenderung sepi. Pantai Sebalang memiliki garis pantai yang panjang dan dangkal, sehingga dapat digunakan untuk bermain air.
+    </string>
+    <string name="pasirputih">
+Pantai Pasir Putih Lampung terletak di Kecamatan Katibung, Kalianda, Lampung Selatan. Wisata ini menawarkan pemandangan pantai yang indah dengan melihat pulau Condong, bahkan bisa menyambangi pulau berpasir putih ini dengan perahu nelayan tersedia. \n
+        \n
+Daya tarik utama dari pantai ini adalah pasir putih yang terhampar luas. Deretan pohon Waru yang ditanam di sepanjang garis pantai memberikan nuansa keteduhan yang membuat damai. \n
+        \n
+Mulai dari berenang di pinggir pantai hingga berkeliling pantai dengan kano menjadi kegiatan yang bisa Anda lakukan di sini.
+    </string>
+    <string name="setigiheni">
+Pantai ini berada di Canggung, sebelah barat Gunung Rajabasa atau di arah selatannya kota Kalianda. Selain pesonanya yang memikat, Pantai Setigi Heni menjadi salah satu saksi bisu letusan Gunung Krakatau di masa lalu \n
+        \n
+Pantai Setigi Heni menjadi destinasi favorit banyak keluarga dan generasi milenial karena suasana pantainya yang ideal. Pantai ini dinamakan Setigi Heni karena pada saat sebelum anak gunung krakatau meletus, pantai ini ditumbuhi pohon Setigi di hamparan pasir pantai. Heni dalam bahasa Lampung berarti pasir \n
+        \n
+Pantai ini menawarkan pemandangan indah dengan hamparan pasir putih yang panjang dan ombak yang relatif tenang, sehingga cocok untuk tamasya keluarga.
+    </string>
+    <string name="kedu">
+Pantai Kedu Warna di Sinar Laut, Kecamatan Kalianda, Lampung Selatan. Pengunjung bisa berjalan di pantai untuk menikmati lembutnya pasir dan sejuknya air laut. Namun, tidak disarankan untuk berenang karena ombak relatif besar \n
+        \n
+Di pagi hari, matahari seolah menampakkan diri di balik Gunung Rajabasa, sedangkan di sore hari, sunset akan tampak indah di ufuk barat.\n
+        \n
+Adapun aktivitas yang bisa dilakukan pengunjung di sini, yaitu melihat keindahan sunrise dan sunset, memancing, glamping, foto,menikmati keindahan pantai dengan mendengarkan live music yang syahdu, dan berbagai aktivitas lainnya.
+    </string>
+    <string name="laguna">
+        Pantai Laguna Kalianda terletak di Desa Ketapang, Kecamatan Kalianda, Lampung Selatan.pantai laguna helau ini juga memiliki ciri khas pada hamparan pasirnya yang putih dan halus.Di ujung pasir pantai berjejer dengan indah batu-batu karang di dekat pantai \n
+        \n
+        Sunrise di pantai ini juga tak kalah dengan sunsetnya. Pemandangan matahari terbit dari samping Gunung Rajabasa menjadi fenomena langka yang sangat menakjubkan. \n
+        \n
+        Cottage tersebut berbentuk panggug dengan dikelilingin pohon kelapa. View laut menjadi daya tarik utama ketika anda ingin menginap di cottage tersebut. Fasilitas yang ada di dalam cottage tersebut cukup lengkap yakni televisi, kulkas, meja dan lainnya.
+    </string>
+    <string name="pahawang">
+        Pulau Pahawang dengan indahnya pantai dan lokasi snorkling yang bagus, masuk wilayah Kecamatan Punduh Pidada, Kabupaten Pesawaran, Provinsi Lampung. Jaraknya tidak terlalu jauh dari Kota Bandar Lampung hanya membutuhkan waktu 2 jam
+    </string>
+    <string name="gigihiu">
+        Pantai Gigi Hiu terletak di Kecamatan Kelumbayan, Kabupaten Tanggamus, Lampung.Nama “gigi hiu” ditambahkan pada nama pantai ini karena bebatuan di sana tersusun dalam formasi yang mirip dengan gigi hiu.
+    </string>
+    <string name="kiluan">
+        Pantai Teluk Kiluan terkenal dengan lumba-lumba yang sering terlihat di perairannya. Anda dapat melakukan perjalanan perahu untuk menyaksikan lumba-lumba berenang bebas atau sekadar menikmati pantai yang indah dan makan makanan laut segar.
+    </string>
+    <string name="tanjung">
+        Pantai Tanjung Setia di Pesisir Barat Lampung menjadi pilihan wisata selancar baik wisatawan lokal maupun mancanegara. Di pantai ini ada spot surfing terbaik kelas dunia di Indonesia dengan ketinggian ombak di pantai ini bisa mencapai 6 sampai 7 meter
+    </string>
+    <string name="mutun">
+        Pantai Mutun terletak di Lampung, tepatnya di Desa Sukajaya, Kecamatan Padang Cermin, Kabupaten Pesawaran. Dengan pasir putih yang lembut dan air laut yang jernih biru, pantai ini menjadi surga tersembunyi bagi para traveler.
+    </string>
+    <string name="sari">
+        Pantai Sari Ringgung memiliki pasir pantai yang putih dan juga air yang sangat jernih, cocok sekali untuk bermain air dan berfoto.Menuju ke Pantai Sari Ringgung membutuhkan waktu sekitar satu jam dari kota Bandarlampung
+    </string>
+    <string name="klara">
+        Pantai Klara merupakan sebuah tempat wisata alam yang terletak di daerah Pesawaran, Lampung.Nama Klara sendiri adalah singkatan dari Kelapa Rapat. Itu karena di pantai ini banyak sekali tumbuh pohon kelapa yang jaraknya saling berdekatan
+    </string>
+    <string name="labuhan">
+        Pantai Labuhan Jukung memiliki pemandangan alam yang indah. Obyek wisata ini merupakan pantai dengan pasir putih dan memiliki ombak yang tinggi. Banyak wisatawan asing yang berkunjung di Pantai Labuhan Jukung, untuk berselancar.
+    </string>
+    <string name="batulapis">
+        Pantai Batu Lapis yang memiliki pemandangan bebatuan cantik berlapis-lapis.Bisa dibilang bahwa pantai ini masih jarang diketahui banyak orang, sehingga masih sangat asri dan asli.
+    </string>
+
+
+    <string-array name="data_deskripsipantai">
+        <item>Pantai ini memiliki hamparan karang di sepanjang pantai. Deburan ombak yang menerjang bebatuan dan hamparan pasir putih di pantai menjadi daya tarik tersendiri di Pantai Marina Lampung. \n
+\n
+Memiliki keindahan alam yang memukau, Pantai Marina Lampung juga punya berbagai spot foto yang instagramable dan layak untuk kamu abadikan. \n
+\n
+Berfoto dengan latar belakang deburan ombak, hamparan karang, bahkan ada spot foto yang bertema Santorini
+        </item>
+
+        <item>Pantai Sebalang menawarkan pasir putih, kafe, dan pesona matahari terbenam. Berada di Tarahan, Lampung Selatan, tidak jauh dari kota Bandarlampung. Sehingga selalu penuh baik di hari libur maupun di hari biasa. \n
+\n
+Pantai Sebalang terkenal sebagai pantai senja, karena banyak pengunjung datang pada sore hari untuk menikmati matahari tenggelam. Pengunjung dapat duduk-duduk di pinggir pantai atau kafe yang tersedia sambil menikmati pantai \n
+\n
+Jika pagi hari pantai cenderung sepi. Pantai Sebalang memiliki garis pantai yang panjang dan dangkal, sehingga dapat digunakan untuk bermain air.
+        </item>
+        <item>Pantai Pasir Putih Lampung terletak di Kecamatan Katibung, Kalianda, Lampung Selatan. Wisata ini menawarkan pemandangan pantai yang indah dengan melihat pulau Condong, bahkan bisa menyambangi pulau berpasir putih ini dengan perahu nelayan tersedia.</item>
+        <item>Pantai Setigi Heni beraeda di Canggung, sebelah barat Gunung Rajabasa atau di arah selatannya kota Kalianda. Selain pesonanya yang memikat, Pantai Setigi Heni menjadi salah satu saksi bisu letusan Gunung Krakatau di masa lalu.  </item>
+        <item>Pantai Kedu Warna di Sinar Laut, Kecamatan Kalianda, Lampung Selatan. Pengunjung bisa berjalan di pantai untuk menikmati lembutnya pasir dan sejuknya air laut. Namun, tidak disarankan untuk berenang karena ombak relatif besar</item>
+        <item>Pantai Laguna Kalianda terletak di Desa Ketapang, Kecamatan Kalianda, Lampung Selatan.pantai laguna helau ini juga memiliki ciri khas pada hamparan pasirnya yang putih dan halus.Di ujung pasir pantai berjejer dengan indah batu-batu karang di dekat pantai</item>
+        <item>Pulau Pahawang dengan indahnya pantai dan lokasi snorkling yang bagus, masuk wilayah Kecamatan Punduh Pidada, Kabupaten Pesawaran, Provinsi Lampung. Jaraknya tidak terlalu jauh dari Kota Bandar Lampung hanya membutuhkan waktu 2 jam</item>
+        <item>Pantai Gigi Hiu terletak di Kecamatan Kelumbayan, Kabupaten Tanggamus, Lampung.Nama “gigi hiu” ditambahkan pada nama pantai ini karena bebatuan di sana tersusun dalam formasi yang mirip dengan gigi hiu. </item>
+        <item>Pantai Teluk Kiluan terkenal dengan lumba-lumba yang sering terlihat di perairannya. Anda dapat melakukan perjalanan perahu untuk menyaksikan lumba-lumba berenang bebas atau sekadar menikmati pantai yang indah dan makan makanan laut segar. </item>
+        <item>Pantai Tanjung Setia di Pesisir Barat Lampung menjadi pilihan wisata selancar baik wisatawan lokal maupun mancanegara. Di pantai ini ada spot surfing terbaik kelas dunia di Indonesia dengan ketinggian ombak di pantai ini bisa mencapai 6 sampai 7 meter</item>
+        <item>Pantai Mutun terletak di Lampung, tepatnya di Desa Sukajaya, Kecamatan Padang Cermin, Kabupaten Pesawaran. Dengan pasir putih yang lembut dan air laut yang jernih biru, pantai ini menjadi surga tersembunyi bagi para traveler.</item>
+        <item>Pantai Sari Ringgung memiliki pasir pantai yang putih dan juga air yang sangat jernih, cocok sekali untuk bermain air dan berfoto.Menuju ke Pantai Sari Ringgung membutuhkan waktu sekitar satu jam dari kota Bandarlampung </item>
+        <item>Pantai Klara merupakan sebuah tempat wisata alam yang terletak di daerah Pesawaran, Lampung.Nama Klara sendiri adalah singkatan dari Kelapa Rapat. Itu karena di pantai ini banyak sekali tumbuh pohon kelapa yang jaraknya saling berdekatan </item>
+        <item>Pantai Labuhan Jukung memiliki pemandangan alam yang indah. Obyek wisata ini merupakan pantai dengan pasir putih dan memiliki ombak yang tinggi. Banyak wisatawan asing yang berkunjung di Pantai Labuhan Jukung, untuk berselancar.</item>
+        <item>Pantai Batu Lapis yang memiliki pemandangan bebatuan cantik berlapis-lapis.Bisa dibilang bahwa pantai ini masih jarang diketahui banyak orang, sehingga masih sangat asri dan asli. </item>
+    </string-array>
+
+    <integer-array name="data_fotopantai">
+        <item>@drawable/pantai_marina</item>
+        <item>@drawable/sebalang</item>
+        <item>@drawable/pasirputih</item>
+        <item>@drawable/setigiheni</item>
+        <item>@drawable/keduwarna</item>
+        <item>@drawable/laguna</item>
+        <item>@drawable/pahawang</item>
+        <item>@drawable/gigihiu</item>
+        <item>@drawable/kiluan</item>
+        <item>@drawable/tanjungsetia</item>
+        <item>@drawable/mutun</item>
+        <item>@drawable/sariringgung</item>
+        <item>@drawable/klara</item>
+        <item>@drawable/labuhanjukung</item>
+        <item>@drawable/batulapis</item>
+    </integer-array>
+</resources>
